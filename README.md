@@ -1,4 +1,3 @@
 # GMEs_experiments
 TO DO:
-Coucou
-Yolo
+Write a ReadMe
